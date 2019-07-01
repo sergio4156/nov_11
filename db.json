@@ -1,0 +1,19 @@
+{
+  "authUsers": [
+    {
+      "id": 1,
+      "email": "sergio4156@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "email": "andrew@gmail.com",
+      "password": "67890"
+    },
+    {
+      "id": 3,
+      "email": "jessica@gmail.com",
+      "password": "abcde"
+    }
+  ]
+}
